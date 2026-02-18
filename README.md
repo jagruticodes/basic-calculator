@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # Basic Calculator<br><br>A simple calculator built using HTML, CSS, and JavaScript.<br><br>## Features<br>- Addition<br>- Subtraction<br>- Multiplication<br>- Division<br>- Clear (AC) and Delete (DEL)<br>- Responsive grid layout<br><br>## Technologies Used<br>- HTML<br>- CSS (Grid)<br>- JavaScript<br><br>## Live Demo<br>https://jagruticodes.github.io/basic-calculator/<br><br><br>
 
 
